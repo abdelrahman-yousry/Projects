@@ -1,0 +1,8 @@
+﻿  Terminal.c
+D:\UdacityWorkspace\PaymentApp\PaymentApp\Terminal.c(14,2): warning C4013: 'gets' undefined; assuming extern returning int
+D:\UdacityWorkspace\PaymentApp\PaymentApp\Terminal.c(38): warning C4716: 'isCardExpired': must return a value
+D:\UdacityWorkspace\PaymentApp\PaymentApp\Terminal.c(42): warning C4716: 'isValidCardPAN': must return a value
+D:\UdacityWorkspace\PaymentApp\PaymentApp\Terminal.c(46): warning C4716: 'getTransactionAmount': must return a value
+D:\UdacityWorkspace\PaymentApp\PaymentApp\Terminal.c(50): warning C4716: 'isBelowMaxAmount': must return a value
+D:\UdacityWorkspace\PaymentApp\PaymentApp\Terminal.c(54): warning C4716: 'setMaxAmount': must return a value
+  PaymentApp.vcxproj -> D:\UdacityWorkspace\PaymentApp\x64\Debug\PaymentApp.exe
